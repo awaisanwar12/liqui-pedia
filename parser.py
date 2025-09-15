@@ -1,4 +1,4 @@
-import mwparserfromhell
+import mwparserfromhell  # pyright: ignore[reportMissingImports]
 import re
 
 def parse_participants(wikitext):
