@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from wiki_fetcher import get_tournament_data
 from parser import parse_tournament_data
+import os
 
 app = FastAPI()
 
@@ -19,9 +20,18 @@ def tournament_endpoint(game: str, tournament_name: str):
         if "content" in raw_data:
             # Parse the wikitext to get structured data
             structured_data = parse_tournament_data(raw_data['content'])
+
+            # Define a single filename for the latest wikitext
+            wikitext_filename = "latest_tournament.wikitext"
+            
+            # Save the raw wikitext to the file, overwriting if it exists
+            with open(wikitext_filename, 'w', encoding='utf-8') as f:
+                f.write(raw_data['content'])
+
             return {
                 "title": raw_data['title'],
                 "pageid": raw_data['pageid'],
+                "wikitext_file": wikitext_filename,
                 "structured_data": structured_data
             }
         else:

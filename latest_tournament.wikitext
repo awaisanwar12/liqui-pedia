@@ -1,0 +1,625 @@
+{{DISPLAYTITLE:CCT Season 3 Oceania Series #2}}
+{{CCT Navbox}}<br>
+{{CCT Season 3 Tabs|oce}}
+{{Infobox league
+|name=CCT Season 3 Oceania&nbsp;Series&nbsp;#2
+|image=CCT 2024 Oceania allmode.png
+|icon=CCT 2024 Oceania icon allmode.png
+|tickername=CCT OCE Series #2
+|organizer=GAM3RS_X
+|organizer-link=https://gam3rsx.com
+|series=Champion of Champions Tour
+|abbreviation=CCT Oceania
+|shortname=Series #2
+|type=Online
+|country=Oceania
+|prizepool=10,000
+|localcurrency=aud
+|liquipediatier=C-Tier
+|publishertier=Tier 2
+|sdate=2025-09-01
+|edate=2025-09-12
+|web=https://cctour.gg/
+|rulebook=https://docs.google.com/document/d/1kLvPgQ09_2_TI7-rO_Ouq_Z0jR6XhArT_mUEVGqEcB0
+|twitter=CCT_CS
+|kick=cct_cs3
+|youtube=channel/UCrN2GuYzV7D8hcyMrq7ImUA
+|sponsor=[https://www.grid.gg/ GRID]<br/>[https://hellcase.com Hellcase]<br/>[https://skin.place/ Skin Place]<br/>[https://stake.com/ Stake]
+|game=cs2
+|map1=Ancient
+|map2=Dust II
+|map3=Inferno
+|map4=Mirage
+|map5=Nuke
+|map6=Overpass
+|map7=Train
+|team_number=12
+}}
+
+==About==
+===Broadcast Talent===
+{{BroadcasterCard
+|position=Commentator
+|b1=Elfishguy
+|b2=Mac
+|b3=
+|b4=
+|b5=
+|b6=
+|b7=
+|b8=
+}}
+
+===Format===
+* '''Group Stage:'''
+** Two double-elimination format (GSL) Groups
+*** Each group has 4 teams
+*** All matches are {{Abbr/Bo3}}
+** Top two teams from each group advance to the Playoffs
+
+* '''Playoffs:'''
+** Double-Elimination bracket
+** All matches ''(excl. Grand Final)'' are {{Abbr/Bo3}}
+** Grand Final is {{Abbr/Bo5}}
+
+===Prize Pool===
+{{TeamPrizePool|prizesummary=true|autoexchange=true|exchangeinfo=true|localcurrency=aud
+|{{Slot|localprize=5,000}}
+|{{Slot|localprize=3,000}}
+|{{Slot|localprize=1,500}}
+|{{Slot|localprize=500}}
+}}
+
+==Participants==
+{{#vardefine:vrs | https://github.com/ValveSoftware/counter-strike_regional_standings/blob/main/invitation/2025/standings_asia_2025_08_04.md VRS Oceania (Aug. 2025)}}
+{{TeamCardToggleButton}}
+===Playoffs Invites===
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=SemperFi Esports
+|p1=SaVage
+|p2=keen
+|p3=shadiy
+|p4=HaZR
+|p5=ADDICT
+|qualifier=[{{#var:vrs}}]
+|inotes={{NoteBig
+|n1=September 3rd - '''[[SemperFi Esports]]''' part ways with {{player|aliStair|flag=au}}. <ref>{{cite web|url=https://x.com/aliStair_CS/status/1963046454190383578|title=YA BOY IS A FREE AGENT|date=2025-09-03|author=[[aliStair]]}}</ref>
+|n2=September 6th - '''[[SemperFi Esports]]''' part ways with {{player|link=Valiance (Australian player)|Valiance|flag=au}}. <ref>{{cite web|url=https://x.com/semperfiESC/status/1964186169882575184|title=We say goodbye to two veterans of Oz CS Alistair and Valiance|date=2025-09-06|author=[[SemperFi Esports]]}}</ref>
+|n3=September 7th - '''[[SemperFi Esports]]''' sign {{player|HaZR|flag=au}} and {{player|ADDICT|flag=nz}}. <ref name="semperfi +2">{{cite web|url=https://x.com/semperfiESC/status/1964591266072842538|title=The best-kept secret in Aussie CS is out|date=2025-09-07|author=[[SemperFi Esports]]}}</ref>
+}}
+}}
+{{TeamCard
+|team=Rooster
+|p1=asap
+|p2=chelleos
+|p3=TjP
+|p4=sliimey
+|p5=Terryyy
+|c=DANZ
+|s1=BRACE
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=ex-TALON
+|p1=Forleks
+|p2=
+|p3=
+|p4=
+|p5=
+|c=
+|qualifier=[{{#var:vrs}}]
+|inotes={{NoteBig
+|n1=September 7th - {{player|HaZR|flag=au}} and {{player|ADDICT|flag=nz}} are signed by '''[[SemperFi Esports]]'''. <ref name="semperfi +2"/>
+}}
+}}
+{{TeamCard
+|team=Ground Zero Gaming
+|p1=damyo
+|p2=apocdud
+|p3=pz
+|p4=vision|p4flag=au
+|p5=Omichella|p5flag=au
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard columns end}}
+
+===Group Stage Invites===
+{{TeamCard columns start|cols=4}}
+{{TeamCard
+|team=KZG
+|p1=Mingovi|p1flag=vn
+|p2=dpr|p2flag=au
+|p3=dearlucid|p3flag=au
+|p4=vinhy|p4flag=au
+|p5=Drox|p5flag=au
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=The Art of War
+|p1=viridian
+|p2=BaN4na|p2flag=au
+|p3=Oath|p3flag=pt
+|p4=sunshinez|p4flag=hk
+|p5=bogeymanh|p5flag=in
+|s1=val|s1flag=nz|s1result=true
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=FURY
+|p1=cheeseball|p1flag=nz
+|p2=cookie|p2flag=au
+|p3=rekonz
+|p4=SkulL
+|p5=ADK
+|s1=Winnieeeee |s1flag=au |s1result=true
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=Mindfreak
+|link=Mindfreak (Australian team)
+|p1=tucks
+|p2=kairo|p2flag=au
+|p3=zune|p3flag=au
+|p4=swerzieN|p4flag=tr
+|p5=JohnSm1th|p5flag=au
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=Underground Esports Club
+|p1=Mechanical|p1flag=au
+|p2=N1ghtraid|p2flag=vn
+|p3=jayketh|p3flag=au
+|p4=beau|p4flag=au
+|p5=Myst|p5flag=au
+|c=Toose|cflag=au
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=Animus Victoria
+|p1=foggers
+|p2=TRIPLUS|p2flag=au
+|p3=void
+|p4=gump
+|p5=Kobe|p5flag=au
+|c=mattyB|cflag=au
+|qualifier=[{{#var:vrs}}]
+}}
+{{TeamCard
+|team=LE-LUX Esports
+|p1=LarkoTaco|p1flag=au
+|p2=kasze|p2flag=cn
+|p3=Kras|p3flag=au
+|p4=vanillaicey|p4flag=nz
+|p5=BROJVHS|p5flag=au
+|s1=Samuukxs |s1flag=au |s1result=true
+|c=Estate|cflag=au
+|qualifier=[[/Qualifier|Open Qualifier]]
+}}
+{{TeamCard
+|team=Exsto Gaming
+|p1=ELFMELK|p1flag=au
+|p2=Zcc|p2flag=cn
+|p3=AlexieK|p3flag=hk|p3link=Alex (Hong Kong player)
+|p4=NRD|p4flag=au
+|p5=Crunchy|p5flag=au
+|c=Tricolour|cflag=cn
+|qualifier=[[/Qualifier|Open Qualifier]]
+}}
+{{TeamCard columns end}}
+
+==Results==
+==={{Stage|Group Stage}}===
+{{Toggle group start|state=show}}
+{{box|start|padding=2em|max-width=1000px}}
+===={{HiddenSort|Group A}}====
+{{GroupTableLeague|title=Group A|width=400px|show_p=false|edate=2025-09-06
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down|tiebreaker1=series
+|bg1=up|team1=kzg
+|bg2=down|team2=mindfreak
+|bg3=up|team3=animus victoria
+|bg4=down|team4=exsto gaming
+}}
+{{Matchlist|id=dc5H7vRwOQ|gsl=winnersfirst|width=400px|collapsed=true|attached=true|title=Group A Matches
+|{{Match
+	|opponent1={{TeamOpponent|mindfreak}}|opponent2={{TeamOpponent|animus victoria
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=sterling|out=Kobe|games=1}}
+ 		}}
+    }}
+	|date=September 1, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Nuke|finished=true
+		|t1firstside=t|t1t=10|t1ct=3|t2t=8|t2ct=2
+		|stats=206396}}
+	|map2={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=4|t1ct=7|t2t=5|t2ct=8
+		|stats=206399}}
+	|map3={{Map|map=Mirage|finished=true
+		|t1firstside=t|t1t=3|t1ct=4|t2t=4|t2ct=9
+		|stats=206402}}
+	|hltv=2385005
+}}
+|{{Match
+	|opponent1={{TeamOpponent|kzg}}|opponent2={{TeamOpponent|exsto gaming
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=Tricolour|out=Zccnb666|games=2 and 3}}
+ 		}}
+    }}
+	|date=September 1, 2025 - 20:15 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Mirage|finished=true
+		|t1firstside=ct|t1t=4|t1ct=9|t2t=3|t2ct=1
+		|stats=206403}}
+	|map2={{Map|map=Train|finished=true
+		|t1firstside=t|t1t=4|t1ct=3|t2t=5|t2ct=8
+		|stats=206410}}
+	|map3={{Map|map=Inferno|finished=true
+		|t1firstside=t|t1t=8|t1ct=5|t2t=0|t2ct=4
+		|stats=206413}}
+	|hltv=2385006
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|animus victoria}}|opponent2={{TeamOpponent|kzg}}
+	|date=September 3, 2025 - 18:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Overpass|finished=true
+		|t1firstside=t|t1t=4|t1ct=9|t2t=2|t2ct=8
+		|stats=206492}}
+	|map2={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=4|t1ct=8|t2t=4|t2ct=8
+		|o1t1firstside=t|o1t1t=2|o1t1ct=1|o1t2t=2|o1t2ct=1
+		|o2t1firstside=ct|o2t1t=2|o2t1ct=1|o2t2t=2|o2t2ct=1
+		|o3t1firstside=t|o3t1t=0|o3t1ct=1|o3t2t=1|o3t2ct=3
+		|stats=206497}}
+	|map3={{Map|map=Mirage|finished=true
+		|t1firstside=t|t1t=4|t1ct=8|t2t=4|t2ct=8
+		|o1t1firstside=ct|o1t1t=1|o1t1ct=3|o1t2t=0|o1t2ct=2
+		|stats=206503}}
+	|hltv=2385009
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|mindfreak}}|opponent2={{TeamOpponent|exsto gaming}}
+	|date=September 4, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Mirage|finished=true
+		|t1firstside=ct|t1t=4|t1ct=9|t2t=3|t2ct=0
+		|stats=206535}}
+	|map2={{Map|map=Dust II|finished=true
+		|t1firstside=t|t1t=8|t1ct=5|t2t=2|t2ct=4
+		|stats=206536}}
+	|map3={{Map|map=Inferno|finished=skip}}
+	|hltv=2385011
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|kzg}}|opponent2={{TeamOpponent|mindfreak}}
+	|date=September 5, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Train|finished=true
+		|t1firstside=t|t1t=6|t1ct=6|t2t=6|t2ct=6
+		|o1t1firstside=ct|o1t1t=2|o1t1ct=1|o1t2t=2|o1t2ct=1
+		|o2t1firstside=t|o2t1t=2|o2t1ct=1|o2t2t=2|o2t2ct=1
+		|o3t1firstside=ct|o3t1t=1|o3t1ct=2|o3t2t=1|o3t2ct=2
+		|o4t1firstside=t|o4t1t=1|o4t1ct=2|o4t2t=1|o4t2ct=2
+		|o5t1firstside=ct|o5t1t=1|o5t1ct=2|o5t2t=1|o5t2ct=2
+		|o6t1firstside=t|o6t1t=3|o6t1ct=1|o6t2t=1|o6t2ct=0
+		|stats=206590}}
+	|map2={{Map|map=Dust II|finished=true
+		|t1firstside=ct|t1t=5|t1ct=7|t2t=5|t2ct=7
+		|o1t1firstside=t|o1t1t=3|o1t1ct=1|o1t2t=0|o1t2ct=0
+		|stats=206608}}
+	|map3={{Map|map=Inferno|finished=skip}}
+	|hltv=2385013
+	}}
+}}
+{{box|break|padding=2em}}
+
+===={{HiddenSort|Group B}}====
+{{GroupTableLeague|title=Group B|width=400px|show_p=false|edate=2025-09-06
+|pbg1=up|pbg2=up|pbg3=down|pbg4=down|tiebreaker1=series
+|bg1=down|team1=the art of war
+|bg2=up|team2=fury
+|bg3=up|team3=underground esc
+|bg4=down|team4=le-lux esports 
+}}
+{{Matchlist|id=qdi1BBUhyp|gsl=winnersfirst|width=400px|collapsed=true|attached=true|title=Group B Matches
+|{{Match
+	|opponent1={{TeamOpponent|the art of war
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=val|out=sunshinez}}
+ 		}}
+    }}|opponent2={{TeamOpponent|le-lux esports
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=Samuukxs|out=Kras}}
+        |{{Substitution|in=Estate|out=kasze|games=1}}
+ 		}}
+    }}
+	|date=September 2, 2025 - 18:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Nuke|finished=true
+		|t1firstside=ct|t1t=4|t1ct=9|t2t=3|t2ct=3
+		|stats=206446}}
+	|map2={{Map|map=Dust II|finished=true
+		|t1firstside=t|t1t=6|t1ct=6|t2t=6|t2ct=6
+		|o1t1firstside=ct|o1t1t=2|o1t1ct=2|o1t2t=1|o1t2ct=1
+		|stats=206448}}
+	|map3={{Map|map=Ancient|finished=skip}}
+	|hltv=2385007
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|fury}}|opponent2={{TeamOpponent|underground esc}}
+	|date=September 2, 2025 - 20:30 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Ancient|finished=true
+		|t1firstside=t|t1t=5|t1ct=5|t2t=6|t2ct=7
+		|stats=206451}}
+	|map2={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=3|t1ct=10|t2t=2|t2ct=0
+		|stats=206453}}
+	|map3={{Map|map=Nuke|finished=true
+		|t1firstside=ct|t1t=4|t1ct=9|t2t=3|t2ct=4
+		|stats=206455}}
+	|hltv=2385008
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|the art of war}}|opponent2={{TeamOpponent|fury}}
+	|date=September 3, 2025 - 22:10 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Dust II|finished=true
+		|t1firstside=t|t1t=7|t1ct=0|t2t=8|t2ct=5
+		|stats=206508}}
+	|map2={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=6|t1ct=7|t2t=5|t2ct=5
+		|stats=206515}}
+	|map3={{Map|map=Nuke|finished=true
+		|t1firstside=ct|t1t=1|t1ct=7|t2t=5|t2ct=8
+		|stats=206517}}
+	|hltv=2385010
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|le-lux esports}}|opponent2={{TeamOpponent|underground esc}}
+	|date=September 4, 2025 - 20:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Overpass|finished=true
+		|t1firstside=t|t1t=5|t1ct=0|t2t=6|t2ct=7
+		|stats=206542}}
+	|map2={{Map|map=Nuke|finished=true
+		|t1firstside=ct|t1t=1|t1ct=4|t2t=8|t2ct=5
+		|stats=206543}}
+	|map3={{Map|map=Mirage|finished=skip}}
+	|hltv=2385012
+	}}
+|{{Match
+	|opponent1={{TeamOpponent|the art of war}}|opponent2={{TeamOpponent|underground esc}}
+	|date=September 5, 2025 - 21:00 {{Abbr/AEST}} |finished=true
+	|kick=CCT Counter-Strike 3
+	|map1={{Map|map=Mirage|finished=true
+		|t1firstside=t|t1t=7|t1ct=3|t2t=8|t2ct=5
+		|stats=206612}}
+	|map2={{Map|map=Nuke|finished=true
+		|t1firstside=ct|t1t=1|t1ct=3|t2t=9|t2ct=4
+		|stats=206617}}
+	|map3={{Map|map=Inferno|finished=skip}}
+	|hltv=2385014
+	}}
+}}
+{{box|end}}
+{{Toggle group end}}
+<br>
+
+==={{Stage|Playoffs}}===
+{{Bracket|Bracket/8U4L2DSL1D|id=P7bt3PNE0V
+
+<!-- Upper Bracket Quarterfinals -->
+|R1M1={{Match
+    |opponent1={{TeamOpponent|semperfi}}|opponent2={{TeamOpponent|animus victoria}}
+    |date=September 7, 2025 - 20:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Mirage|finished=true
+        |t1firstside=t|t1t=9|t1ct=4|t2t=0|t2ct=3
+        |stats=206783|vod=}}
+    |map2={{Map|map=Overpass|finished=true
+        |t1firstside=ct|t1t=2|t1ct=11|t2t=1|t2ct=2
+        |stats=206786|vod=}}
+    |map3={{Map|map=Ancient|finished=skip}}
+    |hltv=2385018
+    }}
+|R1M2={{Match
+    |opponent1={{TeamOpponent|gz}}|opponent2={{TeamOpponent|kzg}}
+    |date=September 6, 2025 - 20:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Dust II|finished=true
+        |t1firstside=t|t1t=9|t1ct=4|t2t=5|t2ct=3
+        |stats=206671|vod=}}
+    |map2={{Map|map=Ancient|finished=true
+        |t1firstside=ct|t1t=2|t1ct=6|t2t=6|t2ct=7
+        |stats=206676|vod=}}
+    |map3={{Map|map=Mirage|finished=true
+        |t1firstside=t|t1t=7|t1ct=6|t2t=4|t2ct=5
+        |stats=206682|vod=}}
+    |hltv=2385016
+    }}
+|R1M3={{Match
+    |opponent1={{TeamOpponent|rooster
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=BRACE|out=TjP}}
+ 		}}
+    }}|opponent2={{TeamOpponent|fury
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=Winnieeeee|out=ADK}}
+ 		}}
+    }}
+    |date=September 6, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Dust II|finished=true
+        |t1firstside=t|t1t=8|t1ct=5|t2t=4|t2ct=4
+        |stats=206666|vod=}}
+    |map2={{Map|map=Train|finished=true
+        |t1firstside=ct|t1t=4|t1ct=9|t2t=3|t2ct=0
+        |stats=206667|vod=}}
+    |map3={{Map|map=Nuke|finished=skip}}
+    |hltv=2385015
+    }}
+|R1M4={{Match
+    |opponent1={{TeamOpponent|ex-talon|score=FF}}|opponent2={{TeamOpponent|underground esc|score=W}}
+    |date=September 7, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map}}|map2={{Map}}|map3={{Map}}
+    |hltv=2385017
+	|comment='''[[ex-TALON]]''' forfeit the match as they are unable to field a complete lineup.
+    }}
+
+<!-- Upper Bracket Semifinals -->
+|R2M1={{Match
+    |opponent1={{TeamOpponent|semperfi}}|opponent2={{TeamOpponent|gz}}
+    |date=September 9, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Mirage|finished=true
+        |t1firstside=t|t1t=8|t1ct=5|t2t=4|t2ct=4
+        |stats=206976|vod=}}
+    |map2={{Map|map=Dust II|finished=true
+        |t1firstside=ct|t1t=6|t1ct=7|t2t=5|t2ct=2
+        |stats=206979|vod=}}
+    |map3={{Map|map=Nuke|finished=skip}}
+    |hltv=2385021
+    }}
+|R2M2={{Match
+    |opponent1={{TeamOpponent|rooster|score=FF}}|opponent2={{TeamOpponent|underground esc|score=W}}
+    |date=September 9, 2025 - 20:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map}}|map2={{Map}}|map3={{Map}}
+    |hltv=2385022
+    |comment='''[[Rooster]]''' forfeit the match due to a scheduling conflict with [[ESL/Challenger_League/Season_50/Oceania/Cup_2|another event]].
+    }}
+
+<!-- Upper Bracket Final -->
+|R4M1={{Match
+    |opponent1={{TeamOpponent|semperfi}}|opponent2={{TeamOpponent|underground esc}}
+    |date=September 11, 2025 - 14:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Nuke|finished=true
+        |t1firstside=ct|t1t=2|t1ct=11|t2t=1|t2ct=2
+        |stats=207251|vod=}}
+    |map2={{Map|map=Mirage|finished=true
+        |t1firstside=t|t1t=10|t1ct=3|t2t=2|t2ct=2
+        |stats=207252|vod=}}
+    |map3={{Map|map=Ancient|finished=skip}}
+    |hltv=2385025
+    }}
+
+<!-- Lower Bracket Round 1 -->
+|R1M5={{Match
+    |opponent1={{TeamOpponent|animus victoria}}|opponent2={{TeamOpponent|kzg}}
+    |date=September 8, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Dust II|finished=true
+        |t1firstside=ct|t1t=2|t1ct=3|t2t=9|t2ct=4
+        |stats=206858|vod=}}
+    |map2={{Map|map=Mirage|finished=true
+        |t1firstside=t|t1t=3|t1ct=8|t2t=4|t2ct=9
+        |stats=206859|vod=}}
+    |map3={{Map|map=Inferno|finished=skip}}
+    |hltv=2385019
+    }}
+|R1M6={{Match
+    |opponent1={{TeamOpponent|fury|score=W}}|opponent2={{TeamOpponent|ex-talon|score=FF}}
+    |date=September 8, 2025 - 20:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map}}|map2={{Map}}|map3={{Map}}
+    |hltv=2385020
+	|comment='''[[ex-TALON]]''' forfeit the match as they are unable to field a complete lineup.
+    }}
+
+<!-- Lower Bracket Quarterfinals -->
+|R2M3={{Match
+    |opponent1={{TeamOpponent|rooster}}|opponent2={{TeamOpponent|kzg}}
+    |date=September 10, 2025 - 17:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Overpass|finished=true
+        |t1firstside=t|t1t=6|t1ct=7|t2t=3|t2ct=6
+        |stats=207111|vod=}}
+    |map2={{Map|map=Mirage|finished=true
+        |t1firstside=ct|t1t=2|t1ct=11|t2t=1|t2ct=2
+        |stats=207112|vod=}}
+    |map3={{Map|map=Train|finished=skip}}
+    |hltv=2385023
+    }}
+|R2M4={{Match
+    |opponent1={{TeamOpponent|gz}}|opponent2={{TeamOpponent|fury}}
+    |date=September 10, 2025 - 22:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Ancient|finished=true|score1=FF|score2=W}}
+    |map2={{Map|map=Dust II|finished=true|score1=W|score2=FF}}
+    |map3={{Map|map=Nuke|finished=true
+        |t1firstside=t|t1t=11|t1ct=2|t2t=0|t2ct=1
+        |stats=207137|vod=}}
+    |hltv=2385024
+    |comment='''[[Ground Zero Gaming]]''' and '''[[FURY]]''' forfeit the 1st and 2nd maps due to a scheduling conflict with [[ESL/Challenger League/Season 50/Oceania/Cup 2|another event]].
+    }}
+
+<!-- Lower Bracket Semifinal -->
+|R3M1={{Match
+    |opponent1={{TeamOpponent|rooster}}|opponent2={{TeamOpponent|gz
+	|substitutes={{PlayerSubstitutions
+        |{{Substitution|in=yourwombat|out=Omichella|games=2}}
+ 		}}
+    }}
+    |date=September 11, 2025 - 16:45 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Nuke|finished=true
+        |t1firstside=t|t1t=7|t1ct=6|t2t=1|t2ct=5
+        |stats=207253|vod=}}
+    |map2={{Map|map=Mirage|finished=true
+        |t1firstside=ct|t1t=7|t1ct=6|t2t=6|t2ct=2
+        |stats=207254|vod=}}
+    |map3={{Map|map=Dust II|finished=skip}}
+    |hltv=2385026
+    }}
+
+<!-- Lower Bracket Final -->
+|R4M2={{Match
+    |opponent1={{TeamOpponent|underground esc}}|opponent2={{TeamOpponent|rooster}}
+    |date=September 11, 2025 - 19:15 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Nuke|finished=true
+        |t1firstside=t|t1t=1|t1ct=0|t2t=2|t2ct=11
+        |stats=207260|vod=}}
+    |map2={{Map|map=Dust II|finished=true
+        |t1firstside=ct|t1t=2|t1ct=3|t2t=9|t2ct=4
+        |stats=207262|vod=}}
+    |map3={{Map|map=Mirage|finished=skip}}
+    |hltv=2385027
+    }}
+
+<!-- Grand Final -->
+|R5M1={{Match
+    |opponent1={{TeamOpponent|semperfi}}|opponent2={{TeamOpponent|rooster}}
+	|date=September 12, 2025 - 16:00 {{Abbr/AEST}} |finished=true
+    |kick=CCT Counter-Strike 3
+    |map1={{Map|map=Mirage|finished=true
+        |t1firstside=ct|t1t=0|t1ct=5|t2t=7|t2ct=6
+        |stats=207403|vod=}}
+    |map2={{Map|map=Overpass|finished=true
+        |t1firstside=ct|t1t=4|t1ct=4|t2t=8|t2ct=5
+        |stats=207404|vod=}}
+    |map3={{Map|map=Inferno|finished=true
+        |t1firstside=t|t1t=8|t1ct=5|t2t=2|t2ct=4
+        |stats=207408|vod=}}
+    |map4={{Map|map=Nuke|finished=true
+        |t1firstside=ct|t1t=4|t1ct=9|t2t=3|t2ct=0
+        |stats=207413|vod=}}
+    |map5={{Map|map=Dust II|finished=true
+        |t1firstside=t|t1t=8|t1ct=5|t2t=7|t2ct=4
+        |stats=207416|vod=}}
+    |hltv=2385028
+    }}
+}}
+
+==Additional Content==
+===Streams===
+{{Streams
+|lang1=usuk|kick1=cct_cs3
+}}
+
+==References==
+{{Reflist}}
