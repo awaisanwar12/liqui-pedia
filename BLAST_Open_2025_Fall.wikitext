@@ -1,0 +1,929 @@
+{{DISPLAYTITLE:BLAST Open Fall 2025}}
+{{BLAST Premier Navbox}}<br/>
+{{Tabs static
+|name1=Overview |link1=BLAST/Open/2025/Fall
+|name2=Closed Qualifier |link2=BLAST/Open/2025/Fall/Qualifier
+}}
+{{Infobox league
+|name=BLAST Open Fall 2025
+|image=BLAST Open 2025 allmode.png
+|icon=BLAST Open icon allmode.png
+|organizer=BLAST
+|series=BLAST Premier
+|shortname=Open Fall 2025
+|type=Offline
+|prizepoolusd=330,000
+|liquipediatier=S-Tier
+|publishertier=Tier 1
+|country=United Kingdom
+|city=London
+|venue=[https://www.ovoarena.co.uk/ OVO Arena Wembley]
+|sdate=2025-09-05
+|edate=2025-09-07
+|web=https://blast.tv/premier/open-2025-season-2
+|sponsor=
+|rulebook=https://assets.blast.tv/rulebook/Blast+Premier+Handbook+2025+July+Updates.pdf
+|twitter=BLASTPremier
+|facebook=BLASTPremier
+|instagram=BLASTPremier
+|youtube=BLASTPremier
+|twitch=BLASTPremier
+|game=cs2
+|map1=Ancient
+|map2=Dust II
+|map3=Inferno
+|map4=Mirage
+|map5=Nuke
+|map6=Overpass
+|map7=Train
+|team_number=6
+}}
+
+==About==
+===Broadcast Talent===
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Desk Host
+|b1=James Banks
+}}
+{{BroadcasterCard
+|position=Stage Host
+|b1=Freya
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Analyst
+|b1=Pimp
+|b2=Mauisnake
+|b3=voo
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard
+|position=Commentator
+|b1=Hugo Byron
+|b2=JustHarry
+|b3=launders
+|b4=Scrawny
+}}
+{{box|break}}
+{{BroadcasterCard
+|position=Observer
+|b1=
+}}
+{{box|end}}
+
+===Format===
+* '''Playoffs:'''
+** Single-Elimination bracket
+** The Quarterfinals & Semifinals are {{Abbr/Bo3}}
+** The Grand Final is {{Abbr/Bo5}}
+
+===Prize Pool===
+{{TeamPrizePool|prizesummary=true
+|points1=blastff|points1link=BLAST/Premier/2025/Frequent Flyers
+|{{Slot|usdprize=150,000|points=3}}
+|{{Slot|usdprize=60,000|points=1}}
+|{{Slot|usdprize=40,000|points=1|count=2}}
+|{{Slot|usdprize=20,000|points=1|count=2}}
+}}
+
+==Participants==
+{{TeamCardToggleButton}}
+{{TeamCard columns start|cols=3}}
+{{TeamCard
+|team=Team Vitality
+|p1=apEX
+|p2=ZywOo
+|p3=flameZ
+|p4=mezii
+|p5=ropz
+|c=XTQZZZ
+|qualifier=[[/Qualifier|Closed Qualifier]]
+}}
+{{TeamCard
+|team=FURIA
+|p1=yuurih
+|p2=KSCERATO
+|p3=FalleN
+|p4=molodoy
+|p5=YEKINDAR
+|c=sidde
+|qualifier=[[/Qualifier|Closed Qualifier]]
+}}
+{{TeamCard
+|team=FaZe Clan
+|p1=rain
+|p2=broky
+|p3=karrigan
+|p4=frozen
+|p5=jcobbb
+|c=NEO
+|qualifier=[[/Qualifier|Closed Qualifier]]
+}}
+{{TeamCard
+|team=MOUZ
+|p1=torzsi
+|p2=xertioN
+|p3=Jimpphat
+|p4=Brollan
+|p5=Spinx
+|c=sycrone
+|qualifier=[[/Qualifier|Closed Qualifier]]
+}}
+{{TeamCard
+|team=M80
+|p1=Swisher
+|p2=slaxz-
+|p3=s1n
+|p4=Lake
+|p5=HexT
+|c=dephh
+|qualifier=[[/Qualifier|Closed Qualifier]]
+}}
+{{TeamCard
+|team=G2 Esports
+|p1=huNter-
+|p2=malbsMd
+|p3=HeavyGod
+|p4=SunPayus
+|p5=matys
+|c=sAw
+|qualifier=[[/Qualifier|Closed Qualifier]]
+}}
+{{TeamCard columns end}}
+
+==Results==
+{{Bracket|Bracket/4L2DS|id=8LdltZu5tW
+<!-- Quarterfinals -->
+|R1M1={{Match
+	|opponent1={{TeamOpponent|mouz}}|opponent2={{TeamOpponent|m80}}
+	|date=September 5, 2025 - 15:30 {{Abbr/BST}} |finished=true
+	|twitch=BLAST Premier|youtube=BLAST Premier
+	|map1={{Map|map=Ancient|finished=true
+		|t1firstside=ct|t1t=5|t1ct=8|t2t=4|t2ct=6
+		|stats=206628|vod=https://youtu.be/QMTmXJEXgX0?t=20}}
+	|map2={{Map|map=Mirage|finished=true
+		|t1firstside=t|t1t=2|t1ct=7|t2t=3|t2ct=10
+		|stats=206635|vod=https://youtu.be/QMTmXJEXgX0?t=3109}}
+	|map3={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=3|t1ct=10|t2t=2|t2ct=1
+		|stats=206640|vod=https://youtu.be/QMTmXJEXgX0?t=5971}}
+	|hltv=2384852
+	}}
+|R1M2={{Match
+	|opponent1={{TeamOpponent|faze}}|opponent2={{TeamOpponent|g2}}
+	|date=September 5, 2025 - 19:15 {{Abbr/BST}} |finished=true
+	|twitch=BLAST Premier|youtube=BLAST Premier
+	|map1={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=1|t1ct=4|t2t=8|t2ct=5
+		|stats=206647|vod=https://youtu.be/tu2_C12rkXo?t=20}}
+	|map2={{Map|map=Dust II|finished=true
+		|t1firstside=t|t1t=6|t1ct=6|t2t=6|t2ct=6
+		|o1t1firstside=ct|o1t1t=1|o1t1ct=2|o1t2t=1|o1t2ct=2
+		|o2t1firstside=t|o2t1t=0|o2t1ct=0|o2t2t=1|o2t2ct=3
+		|stats=206650|vod=https://youtu.be/tu2_C12rkXo?t=2717}}
+	|map3={{Map|map=Mirage|finished=skip}}
+	|hltv=2384853
+	}}
+
+<!-- Semifinals -->
+|R2M1={{Match
+	|opponent1={{TeamOpponent|vit}}|opponent2={{TeamOpponent|mouz}}
+	|date=September 6, 2025 - 15:30 {{Abbr/BST}} |finished=true
+	|twitch=BLAST Premier|youtube=BLAST Premier
+	|map1={{Map|map=Mirage|finished=true
+		|t1firstside=ct|t1t=5|t1ct=8|t2t=4|t2ct=3
+		|stats=206690|vod=https://youtu.be/xzemTNgpT4w?t=19}}
+	|map2={{Map|map=Inferno|finished=true
+		|t1firstside=t|t1t=6|t1ct=7|t2t=2|t2ct=6
+		|stats=206695|vod=https://youtu.be/xzemTNgpT4w?t=2626}}
+	|map3={{Map|map=Nuke|finished=skip}}
+	|hltv=2384854
+	}}
+|R2M2={{Match
+	|opponent1={{TeamOpponent|furia}}|opponent2={{TeamOpponent|g2}}
+	|date=September 6, 2025 - 18:15 {{Abbr/BST}} |finished=true
+	|twitch=BLAST Premier|youtube=BLAST Premier
+	|map1={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=1|t1ct=4|t2t=8|t2ct=5
+		|stats=206712|vod=https://youtu.be/ZTl7DmoIO_s?t=20}}
+	|map2={{Map|map=Mirage|finished=true
+		|t1firstside=t|t1t=5|t1ct=0|t2t=6|t2ct=7
+		|stats=206730|vod=https://youtu.be/ZTl7DmoIO_s?t=2510}}
+	|map3={{Map|map=Dust II|finished=skip}}
+	|hltv=2384855
+	}}
+
+<!-- Grand Final -->
+|R3M1={{Match
+	|opponent1={{TeamOpponent|vit}}|opponent2={{TeamOpponent|g2}}
+	|date=September 7, 2025 - 15:30 {{Abbr/BST}} |finished=true
+	|twitch=BLAST Premier|youtube=BLAST Premier
+	|map1={{Map|map=Dust II|finished=true
+		|t1firstside=t|t1t=2|t1ct=1|t2t=3|t2ct=10
+		|stats=206813|vod=https://youtu.be/HHzA9AhdHZ4?t=19}}
+	|map2={{Map|map=Mirage|finished=true
+		|t1firstside=ct|t1t=7|t1ct=6|t2t=6|t2ct=0
+		|stats=206820|vod=https://youtu.be/HHzA9AhdHZ4?t=2252}}
+	|map3={{Map|map=Overpass|finished=true
+		|t1firstside=t|t1t=6|t1ct=7|t2t=0|t2ct=6
+		|stats=206825|vod=https://youtu.be/HHzA9AhdHZ4?t=4736}}
+	|map4={{Map|map=Inferno|finished=true
+		|t1firstside=ct|t1t=6|t1ct=6|t2t=6|t2ct=6
+		|o1t1firstside=t|o1t1t=0|o1t1ct=0|o1t2t=1|o1t2ct=3
+		|stats=206832|vod=https://youtu.be/HHzA9AhdHZ4?t=7307}}
+	|map5={{Map|map=Train|finished=true
+		|t1firstside=t|t1t=4|t1ct=2|t2t=5|t2ct=8
+		|stats=206843|vod=https://youtu.be/HHzA9AhdHZ4?t=11082}}
+	|hltv=2384856
+	}}
+}}
+
+==Additional Content==
+<div>
+===Streams===
+{{Streams
+|lang1=usuk|twitch1=blastpremier|youtube1=@BLASTPremier|kick1=blastpremier
+|lang2=fr|twitch2=krl_stream|youtube2=@KRL_STREAM
+|lang3=ru|twitch3=relog_pari_cs_ru|youtube3=@PARIEsports|kick3=pari_esports_cs2
+|lang4=tr|twitch4=tivibuspor|youtube4=@ComboEspor
+|lang5=vn|youtube5=@500BROSFPS|stream5=https://play.onlive.vn/onlivecs2
+|lang6=ua|twitch6=cs2_maincast|youtube6=@CS2_Maincast
+}}
+
+===Articles===
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://www.hltv.org/n/42607
+|title=Keep calm and carry on: Vitality do not need to panic
+|by=King Dempz
+|of=HLTV
+|type=miscellaneous
+}}
+
+===Previews===
+* {{ExternalMediaLink
+|date=2025-08-26
+|link=https://www.hltv.org/n/42542
+|title=BLAST Open London teams, format, schedule, talent, prizes, fantasy
+|by=Sumljiv_Model
+|of=HLTV
+|type=preview
+}}
+<!--
+* {{ExternalMediaLink
+|date=2025-08-XX
+|link=
+|title=
+|by=
+|of=HLTV
+|type=preview
+}}
+-->
+
+===Conclusions===
+* {{ExternalMediaLink
+|date=2025-09-07
+|link=https://www.hltv.org/n/42627
+|title=HeavyGod secures career-first MVP at BLAST Open London
+|by=Striker
+|by_link=Striker (Czech Journalist)
+|of=HLTV
+|type=conclusion
+}}
+* {{ExternalMediaLink
+|date=2025-09-14
+|link=https://www.hltv.org/n/42658
+|title=The EVPs and All-Stars of BLAST Open London
+|by=NER0
+|of=HLTV
+|type=conclusion
+}}
+
+===Interviews===
+====HLTV====
+* {{TeamIcon|faze}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://www.hltv.org/n/42598
+|title=karrigan: "We've brought some of that DNA back. Is that gonna lead to trophies? I have no idea"
+|by=NER0
+|of=HLTV
+|player=karrigan
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://www.hltv.org/n/42604
+|title=torzsi: "They're still really good but Vitality aren't what they used to be in the last 7 months"
+|by=NER0
+|of=HLTV
+|player=torzsi
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://www.hltv.org/n/42601
+|title=malbsMd on G2's new structure: "It feels like if I die I have a purpose for dying"
+|by=NER0
+|of=HLTV
+|player=malbsMd
+|type=interview
+}}
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://www.hltv.org/n/42602
+|title=Lake: "I had to listen to the coach, the old man, he was like, 'You need to get a schedule down'"
+|by=NER0
+|of=HLTV
+|player=Lake
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://www.hltv.org/n/42609
+|title=mezii: "We need to focus more on team play; we've been a bit messy on that aspect"
+|by=NER0
+|of=HLTV
+|player=mezii
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://www.hltv.org/n/42617
+|title=HeavyGod: “Everybody says I’m harsh on myself; I’m trying to be a perfect player”
+|by=NER0
+|of=HLTV
+|player=HeavyGod
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://www.hltv.org/n/42608
+|title=KSCERATO: "I want to play Vitality in the grand final because six years ago, we lost to them in ECS London in the final"
+|by=NER0
+|of=HLTV
+|player=KSCERATO
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://www.hltv.org/n/42621
+|title=Brollan: "It's a hard moment to believe but I know that we're going to win a trophy this season"
+|by=NER0
+|of=HLTV
+|player=Brollan
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://www.hltv.org/n/42623
+|title=sidde: "We are in the process of learning how to play these big games in these big arenas"
+|by=NER0
+|of=HLTV
+|player=sidde
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://www.hltv.org/n/42628
+|title=HeavyGod: "We can do a lot of damage in the future; it's just the beginning for me"
+|by=NER0
+|of=HLTV
+|player=HeavyGod
+|type=interview
+}}
+<!--
+* {{TeamIcon|}} {{ExternalMediaLink
+|date=2025-09-XX
+|link=
+|title=
+|by=
+|of=HLTV
+|player=
+|type=interview
+}}
+-->
+
+====BLAST====
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://blast.tv/cs/news/zywoo-astralis-have-the-best-era
+|title=ZywOo: "Astralis still have the best era in every way"
+|by=
+|of=BLAST
+|player=ZywOo
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://blast.tv/cs/news/spinx-if-we-have-experience
+|title=Spinx: "If we have experience, we need to show it on map one, two, and three"
+|by=
+|of=BLAST
+|player=Spinx
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://blast.tv/cs/news/hunter-when-it-comes-to-firepower-its-the-same
+|title=huNter- on old G2 vs new G2: "When it comes to firepower, it's the same"
+|by=
+|of=BLAST
+|player=huNter-
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-08
+|link=https://blast.tv/cs/news/heavygod-some-teams-think-were-weaker-than-we-are
+|title=HeavyGod: "Some teams think that we're weaker than we are"
+|by=
+|of=BLAST
+|player=HeavyGod
+|type=interview
+}}
+
+====Hotspawn====
+* {{TeamIcon|faze}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://youtu.be/n-kGvMSnlHE
+|title=broky at BLAST Open Fall: "It doesn't matter who we play in the end..we take each team game by game"
+|by=Sophie McCarthy
+|of=Hotspawn
+|player=broky
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/8PJh6cXaaFo
+|title=SunPayus at BLAST Open Fall: "I think the relationship and the chemistry in the team is really good"
+|by=Sophie McCarthy
+|of=Hotspawn
+|player=SunPayus
+|type=interview
+}}
+
+====UKCSGO====
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://ukcsgo.com/dephh-on-playing-in-the-uk-because-youre-normally-everywhere-else-except-the-uk-its-kind-of-special-to-be-back/
+|title=dephh on BLAST Open London Finals: “You’re normally everywhere else except the UK. It’s special to be back”
+|by=Thomas Parker
+|of=UKCSGO
+|player=dephh
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://ukcsgo.com/mezii-tree60-ive-heard-some-good-things-about-this-guy/
+|title=mezii: “I have heard some good things about Tree60”
+|by=Thomas Parker
+|of=UKCSGO
+|player=mezii
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://ukcsgo.com/torzsi-on-the-london-crowd-we-were-a-little-bit-surprised-that-they-were-booing-us-and-then-we-realised-their-coach-is-uk/
+|title=torzsi on the London crowd: "We were a little bit surprised that they were booing us, and then we realised their coach is UK"
+|by=Thomas Parker
+|of=UKCSGO
+|player=torzsi
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://ukcsgo.com/heavygod-hunter-was-calling-insanely-good-against-faze-he-was-just-calling-from-his-gut/
+|title=HeavyGod: "huNter- was calling insanely good <nowiki>[</nowiki>against FaZe<nowiki>]</nowiki>... he was just calling from his gut"
+|by=Thomas Parker
+|of=UKCSGO
+|player=HeavyGod
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://ukcsgo.com/flamez-on-taking-the-trophy-in-london-i-want-to-win-it-for-william-but-i-want-to-win-it-for-me-as-well/
+|title=flameZ on lifting the BLAST Open London trophy: “I want to win it for mezii”
+|by=Thomas Parker
+|of=UKCSGO
+|player=flameZ
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://ukcsgo.com/saw-on-the-win-versus-furia-the-game-plan-was-correct-we-didnt-need-to-do-many-adjustments/
+|title=sAw on the win versus Furia: “The game plan was correct; we didn’t need to make many adjustments.”
+|by=Thomas Parker
+|of=UKCSGO
+|player=sAw
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-08
+|link=https://ukcsgo.com/hunter-after-winning-blast-open-london-theres-a-reason-people-like-us-here-and-im-looking-forward-to-playing-more-events-here/
+|title=huNter-: “There’s a reason people like us here <nowiki>[</nowiki>London<nowiki>]</nowiki>, and I’m looking forward to playing more events here.”
+|by=Thomas Parker
+|of=UKCSGO
+|player=huNter-
+|type=interview
+}}
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-08
+|link=https://ukcsgo.com/dephh-its-really-nice-to-know-that-the-uk-fans-are-still-loyal/
+|title=dephh: “It’s really nice to know that the UK fans are still loyal”
+|by=GrimyRannarr
+|of=UKCSGO
+|player=dephh
+|type=interview
+}}
+
+====Esports News UK====
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://esports-news.co.uk/2025/09/04/lake-on-na-cs-its-probably-worse-than-it-ever-has-been/
+|title=Lake on NA CS: “It’s probably worse than it ever has been”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=Lake
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://esports-news.co.uk/2025/09/04/mouz-brollan-igl-perspective-on-underdogs-vitality-and-entry-blast-open-fall-london/
+|title=MOUZ Brollan shares the IGL perspective on underdogs, Team Vitality, and entry frags at BLAST Open Fall London
+|by=Hannah Marie ZT
+|of=Esports News UK
+|player=Brollan
+|type=interview
+}}
+* {{TeamIcon|faze}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://esports-news.co.uk/2025/09/05/karrigan-now-its-back-to-the-old-faze-clan/
+|title=karrigan: “Now it’s back to the old FaZe Clan”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=karrigan
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://esports-news.co.uk/2025/09/05/torzsi-even-if-they-boo-us-in-the-crowd-we-dont-really-care/
+|title=torzsi: “Even if they boo us in the crowd, we don’t really care”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=torzsi
+|type=interview
+}}
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://esports-news.co.uk/2025/09/05/swisher-hearing-the-crowd-roar-was-the-best-feeling-ever/
+|title=Swisher: “Hearing the crowd roar was the best feeling ever”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=Swisher
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://esports-news.co.uk/2025/09/05/zywoo-team-vitality-blast-open-fall-london-interview/
+|title=ZywOo’s perspective on his team, legacy, and bringing positivity to Counter-Strike: “anyone else smiling… that makes me happier than anything else”
+|by=Hannah Marie ZT
+|of=Esports News UK
+|player=ZywOo
+|type=interview
+}}
+* {{TeamIcon|faze}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://esports-news.co.uk/2025/09/06/rain-i-see-a-bright-future-i-see-happiness-when-we-play/
+|title=rain: "I see a bright future. I see happiness when we play."
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=rain
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://esports-news.co.uk/2025/09/06/fallen-on-molodoy-i-think-he-considers-himself-one-of-the-best-and-hes-not-going-to-stop-until-he-gets-there/
+|title=FalleN on molodoy: “I think he considers himself one of the best, and he’s not going to stop until he gets there.”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=FalleN
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://esports-news.co.uk/2025/09/06/hunter-i-think-we-have-really-strong-firepower-and-i-believe-in-each-and-every-one-in-the-team/
+|title=huNter-: “I think we have really strong firepower, and I believe in each and every one in the team.”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=huNter-
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://esports-news.co.uk/2025/09/06/jimpphat-i-think-there-were-many-mistakes-from-our-end-that-shouldnt-have-happened/
+|title=Jimpphat: “I think there were many mistakes from our end that shouldn’t have happened.”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=Jimpphat
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://esports-news.co.uk/2025/09/06/kscerato-i-didnt-want-to-go-out-like-this/
+|title=KSCERATO: “I didn’t want to go out like this”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=KSCERATO
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://esports-news.co.uk/2025/09/07/matys-people-had-questions-because-niko-and-m0nesy-left-but-we-can-be-dominant/
+|title=Matys: “People had questions because NiKo and m0NESY left, but we can be dominant”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=matys
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-08
+|link=https://esports-news.co.uk/2025/09/08/malbsmd-nobody-is-egoing-anyone-g2-blast-london-intervie/
+|title=malbsMd: “Nobody is egoing anyone, that is a special part of this team”
+|by=Darragh Harbinson
+|of=Esports News UK
+|player=malbsMd
+|type=interview
+}}
+
+====Pley.gg====
+* {{TeamIcon|faze}} {{ExternalMediaLink
+|date=2025-09-04
+|link=https://youtu.be/8kwyvZHHHyw
+|title=broky is back! I started eating more healthy
+|by=
+|of=Pley.gg
+|player=broky
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/y0zJWtLfT1Y
+|title=KSCERATO didn't know FURIA had another game against MOUZ after beating Spirit
+|by=
+|of=Pley.gg
+|player=KSCERATO
+|type=interview
+}}
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/fwrjnA9ZGxM
+|title=HexT hopes a good run at the BLAST Open London can secure them stage 3 at the major
+|by=
+|of=Pley.gg
+|player=HexT
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/zZjE7PLLaGM
+|title=Hunter isn't suprised G2 beat Spirit
+|by=
+|of=Pley.gg
+|player=huNter-
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/vJnvAEKQ284
+|title=Brollan on MOUZ: "We are a little bit disconnected when it comes to pressure situations"
+|by=
+|of=Pley.gg
+|player=Brollan
+|type=interview
+}}
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/xQr0JtIiL-I
+|title=M80 s1n on being IGL on an international team
+|by=
+|of=Pley.gg
+|player=s1n
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://youtu.be/vcWj-8ttdrw
+|title=Jimpphat on beating M80 2-1: “We knew that we are a better team”
+|by=
+|of=Pley.gg
+|player=Jimmphat
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://youtu.be/YafkDL3333E
+|title=apEX on fatigue, form, and getting back to trophies
+|by=
+|of=Pley.gg
+|player=apEX
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://youtu.be/bpvIBIWPDRo
+|title=flameZ: "<nowiki>[</nowiki>At Cologne<nowiki>]</nowiki> we fought a bit, we lost confidence a bit too much"
+|by=
+|of=Pley.gg
+|player=flameZ
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://youtu.be/nuibDcUtkok
+|title=MalbsMd on new G2: "Now i have a little bit more of a voice and i have to take more responsibility"
+|by=
+|of=Pley.gg
+|player=malbsMd
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://youtu.be/9M5CFaqjnus
+|title=FalleN after G2 loss: "We're going to learn from this and come back stronger next time."
+|by=
+|of=Pley.gg
+|player=FalleN
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://youtu.be/BRS6WszszZw
+|title=MATYS after beating FURIA: "We can for sure beat Vitality"
+|by=
+|of=Pley.gg
+|player=matys
+|type=interview
+}}
+* {{TeamIcon|furia}} {{ExternalMediaLink
+|date=2025-09-07
+|link=https://youtu.be/lrPcYqPYt60
+|title=sidde after loss to G2: “Decision making gets more complicated in moments like this"
+|by=
+|of=Pley.gg
+|player=sidde
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-08
+|link=https://youtu.be/V8L0t6H51eE
+|title=SunPayus after winning BLAST London: "After two years, I finally got another trophy"
+|by=
+|of=Pley.gg
+|player=SunPayus
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-08
+|link=https://youtu.be/SAWySFbd-MU
+|title=Mezzi after losing to G2: “Sometimes the small details make the difference.”
+|by=
+|of=Pley.gg
+|player=mezii
+|type=interview
+}}
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-09
+|link=https://youtu.be/2QLUbaIEm80
+|title=sycrone: “We have a solid structure and system <nowiki>[</nowiki>…<nowiki>]</nowiki> now it is about taking the next step”
+|by=
+|of=Pley.gg
+|player=sycrone
+|type=interview
+}}
+<!--
+* {{TeamIcon|}} {{ExternalMediaLink
+|date=2025-09-XX
+|link=
+|title=
+|by=
+|of=Pley.gg
+|player=
+|type=interview
+}}
+-->
+
+====Esports.net====
+* {{TeamIcon|m80}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://www.esports.net/news/dephh-interview-blast-open-london-playoffs/
+|title=“Against a Team Like MOUZ, There’s No Reason to Not Cheer For Us”: dephh Shows Confidence in M80 at BLAST Open London Playoffs
+|by=AN1MO
+|of=Esports.net
+|player=dephh
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://www.esports.net/news/matys-g2-esports-interview-blast-open-london/
+|title=“There Isn’t Much Expectation On Us”: MATYS Discusses G2 Esports’ Rookie Roster Ahead Of BLAST Open London Quarter Finals
+|by=AN1MO
+|of=Esports.net
+|player=matys
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-09
+|link=https://www.esports.net/news/counter-strike/we-want-to-win-xtqzzz-reflects-on-vitalitys-crushing-blast-open-london-defeat/
+|title=“We Want To Win”: XTQZZZ Reflects on Vitality’s Crushing BLAST Open London Defeat
+|by=AN1MO
+|of=Esports.net
+|player=XTQZZZ
+|type=interview
+}}
+
+====La Source====
+* {{TeamIcon|mouz}} {{ExternalMediaLink
+|date=2025-09-05
+|link=https://lasource.gg/news/spinx-affronter-vitality-c-est-toujours-particulier
+|title=Spinx: "Affronter Vitality, c’est toujours particulier"
+|trans_title=Spinx: "Facing Vitality is always special"
+|by=limun
+|of=La Source
+|player=Spinx
+|type=interview
+}}
+* {{TeamIcon|g2}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://lasource.gg/news/malbsmd-je-pense-que-cette-version-de-l-equipe-est-vraiment-bonne
+|title=malbsMd: "Je pense que cette version de l’équipe est vraiment bonne"
+|trans_title=malbsMd: "I think this version of the team is really good"
+|by=limun
+|of=La Source
+|player=malbsMd
+|type=interview
+}}
+* {{TeamIcon|vit}} {{ExternalMediaLink
+|date=2025-09-06
+|link=https://lasource.gg/news/apex-je-suis-pas-la-pour-etre-une-nourrice-je-suis-la-pour-gagner
+|title=apEX : "Je suis pas là pour être une nourrice, je suis là pour gagner"
+|language=fr
+|trans_title=apEX: "I'm not here to be a nanny, I'm here to win"
+|by=limun
+|of=La Source
+|player=apEX
+|type=interview
+}}
+
+===Videos and Photos===
+====Galleries====
+* {{ExternalMediaLink
+|date=2025-09-04
+|link=https://www.hltv.org/gallery/12916/
+|title=BLAST Open London 2025 Finals - Media Day
+|of=HLTV
+|type=gallery
+}}
+* {{ExternalMediaLink
+|date=2025-09-05
+|link=https://www.hltv.org/gallery/12917/
+|title=BLAST Open London 2025 Finals - Day 1
+|of=HLTV
+|type=gallery
+}}
+* {{ExternalMediaLink
+|date=2025-09-06
+|link=https://www.hltv.org/gallery/12918/
+|title=BLAST Open London 2025 Finals - Day 2
+|of=HLTV
+|type=gallery
+}}
+* {{ExternalMediaLink
+|date=2025-09-07
+|link=https://www.hltv.org/gallery/12919/
+|title=BLAST Open London 2025 Finals - Day 3
+|of=HLTV
+|type=gallery
+}}
+<!--
+* {{ExternalMediaLink
+|date=2025-09-XX
+|link=
+|title=
+|of=HLTV
+|type=gallery
+}}
+-->
+
+====Highlights====
+* {{ExternalMediaLink
+|date=2025-09-08
+|link=https://youtu.be/XneRZbBPqik
+|title=BLAST Open London - CS2 Fragmovie
+|by=Awptix
+|of=HLTV
+|type=highlight
+}}
+</div>
+
+==References==
+{{Reflist}}
